@@ -11,7 +11,7 @@ Prequisites, Have golang, be on linux. (might work on other os, not sure)
 
 3 - cd Hexadecimal-to-binary-in-golang
 
-4- go run hexconvert.go
+4 - go run hexconvert.go
 
 5 - type in hex and enter
 
